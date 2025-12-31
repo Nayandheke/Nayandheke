@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nayan Dheke</h1>
+[<h1 align="center">Hi 👋, I'm Nayan Dheke</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayandheke&show_icons=true&locale=en" alt="nayandheke" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayandheke&" alt="nayandheke" /></p>
+](https://github.com/login?client_id=de0e3c7e9973e1c4dd77&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3Dde0e3c7e9973e1c4dd77%26scope%3Drepo%2Buser%2Bworkflow%26state%3Ddb5543d6-87f1-40ea-b186-cc4d54acc64c)
