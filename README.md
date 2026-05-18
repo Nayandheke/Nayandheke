@@ -55,10 +55,18 @@ As a software engineer expanding into Artificial Intelligence and Machine Learni
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayandheke&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayandheke&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nayandheke&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayandheke&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayandheke&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/aletheia-development/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayandheke&theme=radical&hide_border=true" alt="GitHub Streak" width="80%" />
+  </a>
 </p>
+
+---
